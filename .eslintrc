@@ -1,0 +1,24 @@
+{
+    "extends": ["prettier"],
+    "plugins": ["prettier"],
+    "settings": {},
+    "rules": {
+        "no-underscore-dangle": 0,
+        "no-console": "off",
+        "template-curly-spacing": ["error", "never"],
+        "object-curly-spacing": ["error", "always", { "objectsInObjects": true, "arraysInObjects": true }],
+        "quotes": ["error", "single"],
+        "space-infix-ops": ["error"]
+    },
+    "globals": {
+        "window": true,
+        "document": true,
+        "localStorage": true,
+        "FormData": true,
+        "FileReader": true,
+        "Blob": true,
+        "XMLHttpRequest": true,
+        "navigator": true
+    },
+    "parser": "babel-eslint"
+}
