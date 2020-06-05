@@ -1,6 +1,6 @@
 {
     "name": "shuyun-utils",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "index.js",
     "scripts": {
         "precommit": "npm run lint",
@@ -9,7 +9,7 @@
         "pretty-quick": "pretty-quick",
         "test": "jest",
         "dev": "parcel demo/index.html",
-        "build": "parcel build src/index.js --global shuyun-utils --no-source-maps --experimental-scope-hoisting",
+        "build": "parcel build src/index.js --global shuyunUtils --no-source-maps --experimental-scope-hoisting",
         "version": "npm run build && npm run copy && npm publish dist",
         "postversion": "git push && git push --tags",
         "copy": "cp README.md package.json  dist/"
