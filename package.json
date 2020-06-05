@@ -1,6 +1,6 @@
 {
     "name": "shuyun-utils",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "main": "index.js",
     "scripts": {
         "precommit": "npm run lint",
