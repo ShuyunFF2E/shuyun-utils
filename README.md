@@ -5,7 +5,7 @@
 [![Build Status](https://api.travis-ci.com/shuyunFF2E/shuyun-utils.svg?branch=master)](https://travis-ci.com/shuyunFF2E/shuyun-utils)
 [![npm version](https://img.shields.io/npm/v/shuyun-utils.svg?style=flat-square)](https://www.npmjs.com/package/shuyun-utils)
 [![npm downloads](https://img.shields.io/npm/dt/shuyun-utils.svg?style=flat-square)](https://www.npmjs.com/package/shuyun-utils)
-[![coverage](https://img.shields.io/codecov/c/github/shuyunFF2E/shuyun-utils.svg?style=flat-square)](https://codecov.io/gh/shuyunFF2E/shuyun-utils)
+[![codecov](https://codecov.io/gh/ShuyunFF2E/shuyun-utils/branch/master/graph/badge.svg?token=DKK8BPZ40W)](https://codecov.io/gh/ShuyunFF2E/shuyun-utils)
 
 ## 安装
 
